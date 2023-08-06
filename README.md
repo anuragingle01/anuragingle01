@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👀 I’m interested in JAVA & Web Development<br>- 🌱 I’m currently learning DSA<br>- 💞️ I’m looking to collaborate on Backend Development<br>- 📫 How to reach me
+- 👀 I’m interested in JAVA & Web Development<br>- 🌱 I’m currently learning DSA<br>- 💞️ I’m looking to collaborate on Backend Development<br>
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-ingle-1763b421a/)
 
 
 ## 🌐 Socials:
